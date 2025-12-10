@@ -22,6 +22,9 @@ This was a sub-analysis of an ongoing prospective trial of NCAA Division III Cro
 
 Overground running trials were collected on a 19.8 m runway using a force plate mounted flush with the surface. Several warm-up trials were allowed at each runner’s self-reported training pace. Running speed was monitored using photoelectric timing gates with a 2 m span centered on the plate to ensure that each trial was collected within ±5% of the participant’s training pace. Five trials were collected for each limb. Successful trials had the foot entirely on the force plate, no plate “targeting” was observed, and had a speed within the desired range.
 
+*Cluster Analysis*
+
+Ground reaction force (GRF) data from the left and right limbs were processed and analyzed seperatley. A fourier filter was used to decompose the Vertical (V) and anterior-posterior (AP) force signals into low- and high-frequency components using a 10 Hz cutoff. Features were extracted using the TSFRESH Python package. Zero variance features were removed, and all remaining features were normalized prior to dimensionality reduction. Principle Component Analysis (PCA) was then applied, and retaining the PCs that accounted for 90% of the total variance. Finally, Hierarchical Agglomerative Clustering (HAC) was performed to partiion the dataset into k clusters.
 
 ## References
 
