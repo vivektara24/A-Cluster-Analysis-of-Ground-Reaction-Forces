@@ -1,4 +1,4 @@
-# ML-FSP
+# Machine Learning for Foot Strike Pattern
 
 #### Introduction
 
