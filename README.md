@@ -26,6 +26,10 @@ Overground running trials were collected on a 19.8 m runway using a force plate 
 
 Ground reaction force (GRF) data from the left and right limbs were processed and analyzed seperatley. A fourier filter was used to decompose the Vertical (V) and anterior-posterior (AP) force signals into low- and high-frequency components using a 10 Hz cutoff. Features were extracted using the TSFRESH Python package. Zero variance features were removed, and all remaining features were normalized prior to dimensionality reduction. Principle Component Analysis (PCA) was then applied, and retaining the PCs that accounted for 90% of the total variance. Finally, Hierarchical Agglomerative Clustering (HAC) was performed to partiion the dataset into k clusters.
 
+#### Results
+
+
+
 ## References
 
 1. <a id="ref1"></a> Almeida, M. O., Davis, I. S., & Lopes, A. D. (2015). Biomechanical Differences of Foot-Strike Patterns during Running: A Systematic Review with meta-analysis. Journal of Orthopaedic and Sports Physical Therapy, 45(10), 738–755. https://doi.org/10.2519/jospt.2015.6019.
