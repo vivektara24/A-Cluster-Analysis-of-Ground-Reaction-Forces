@@ -30,9 +30,9 @@ Ground reaction force (GRF) data from the left and right limbs were processed an
 
 <table>
   <tr>
-    <td><img src="plots/right_cluster_1_spider_plot.png" width="500"/></td>
-    <td><img src="plots/right_cluster_2_spider_plot.png" width="500"/></td>
-    <td><img src="plots/right_cluster_3_spider_plot.png" width="500"/></td>
+    <td><img src="plots/right_cluster_1_spider_plot.png" width="750"/></td>
+    <td><img src="plots/right_cluster_2_spider_plot.png" width="750"/></td>
+    <td><img src="plots/right_cluster_3_spider_plot.png" width="750"/></td>
   </tr>
 </table>
 <table>
