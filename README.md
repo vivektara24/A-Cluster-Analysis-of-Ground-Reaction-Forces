@@ -43,7 +43,7 @@ To idenifity which of the TSFRESH-derived time-series features contributed most 
 
 ## Results
 
-The first 52 components, expalining 90% of the total variance, were chosen as input for the HAC algorithm for both right and left foot strikes. The dendogram for the clustering results are outlined in Figure .
+For both the left and right GRF features the first 52 principle components, expalining 90% of the total variance, were chosen as input for the HAC algorithm for both right and left foot strikes. The dendogram for the clustering results are outlined in Figure .
 
 #### *Right Foot Stirke Cluster Profiles*
 
@@ -51,13 +51,13 @@ Spider plots for the five right foot strike clusters (Figure 1) illustrate the p
 
 <table align="center">
   <tr>
-    <td align="center"><img src="plots/right_cluster_1_spider_plot.png" width="600px"><br><em>Cluster 1</em></td>
-    <td align="center"><img src="plots/right_cluster_2_spider_plot.png" width="600px"><br><em>Cluster 2</em></td>
-    <td align="center"><img src="plots/right_cluster_3_spider_plot.png" width="600px"><br><em>Cluster 3</em></td>
+    <td align="center"><img src="plots/right_cluster_1_spider_plot.png" width="600px"><br><em>Cluster 1 Running Profile</em></td>
+    <td align="center"><img src="plots/right_cluster_2_spider_plot.png" width="600px"><br><em>Cluster 2 Running Profile</em></td>
+    <td align="center"><img src="plots/right_cluster_3_spider_plot.png" width="600px"><br><em>Cluster 3 Running Profile</em></td>
   </tr>
   <tr>
-    <td align="center"><img src="plots/right_cluster_4_spider_plot.png" width="600px"><br><em>Cluster 4</em></td>
-    <td align="center"><img src="plots/right_cluster_5_spider_plot.png" width="600px"><br><em>Cluster 5</em></td>
+    <td align="center"><img src="plots/right_cluster_4_spider_plot.png" width="600px"><br><em>Cluster 4 Running Profile</em></td>
+    <td align="center"><img src="plots/right_cluster_5_spider_plot.png" width="600px"><br><em>Cluster 5 Running Profile</em></td>
   </tr>
 </table>
 
@@ -66,13 +66,13 @@ Spider plots for the five right foot strike clusters (Figure 1) illustrate the p
 
 <table align="center">
   <tr>
-    <td align="center"><img src="plots/left_cluster_1_spider_plot.png" width="600px"><br><em>Cluster 1</em></td>
-    <td align="center"><img src="plots/left_cluster_2_spider_plot.png" width="600px"><br><em>Cluster 2</em></td>
-    <td align="center"><img src="plots/left_cluster_3_spider_plot.png" width="600px"><br><em>Cluster 3</em></td>
+    <td align="center"><img src="plots/left_cluster_1_spider_plot.png" width="600px"><br><em>Cluster 1 Running Profile</em></td>
+    <td align="center"><img src="plots/left_cluster_2_spider_plot.png" width="600px"><br><em>Cluster 2 Running Profile</em></td>
+    <td align="center"><img src="plots/left_cluster_3_spider_plot.png" width="600px"><br><em>Cluster 3 Running Profile</em></td>
   </tr>
   <tr>
-    <td align="center"><img src="plots/left_cluster_4_spider_plot.png" width="600px"><br><em>Cluster 4</em></td>
-    <td align="center"><img src="plots/left_cluster_5_spider_plot.png" width="600px"><br><em>Cluster 5</em></td>
+    <td align="center"><img src="plots/left_cluster_4_spider_plot.png" width="600px"><br><em>Cluster 4 Running Profile</em></td>
+    <td align="center"><img src="plots/left_cluster_5_spider_plot.png" width="600px"><br><em>Cluster 5 Running Profile</em></td>
   </tr>
 </table>
 
