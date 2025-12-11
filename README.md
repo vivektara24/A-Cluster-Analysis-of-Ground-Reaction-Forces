@@ -49,7 +49,6 @@ For both the left and right GRF features the first 52 principle components, expa
 
 Spider plots for the five right-foot strike clusters (Figure 1) visualize how each group differs across a set of externally selected, biomechanically meaningful GRF features associated with running-related injury risk. Each of the five clusters demonstrates a unique biomechanical running profile, indicating that the clusters formed caputer meaningful differences in how athletes load and interact with the ground during stance beyond the traditional RFS, MFS, and FFS categorizations.
 
-_**Figure 1**.</strong> Spider plots illustrating the biomechanical running profiles for the five right-foot strike clusters._
 <table align="center">
   <tr>
     <td align="center"><img src="plots/right_cluster_1_spider_plot.png" width="600px"><br><em>Cluster 1 Running Profile</em></td>
@@ -61,7 +60,7 @@ _**Figure 1**.</strong> Spider plots illustrating the biomechanical running prof
     <td align="center"><img src="plots/right_cluster_5_spider_plot.png" width="600px"><br><em>Cluster 5 Running Profile</em></td>
   </tr>
 </table>
-
+_**Figure 1**.</strong> Spider plots illustrating the biomechanical running profiles for the five right-foot strike clusters._
 
 The left-foot clusters displayed feature distributions that closely matched those identified in the right-foot analysis, suggesting that the same underlying biomechanical running strategies emerged regardless of limb.
 
@@ -76,7 +75,7 @@ The left-foot clusters displayed feature distributions that closely matched thos
     <td align="center"><img src="plots/left_cluster_5_spider_plot.png" width="600px"><br><em>Cluster 5 Running Profile</em></td>
   </tr>
 </table>
-
+_**Figure 2**.</strong> Spider plots illustrating the biomechanical running profiles for the five left-foot strike clusters._
 #### *Relationship Between Data-Driven Clsuters and Kinematic Foot Stirek Pattern*
 
 The confusion matirx shown in Figure compares right 
