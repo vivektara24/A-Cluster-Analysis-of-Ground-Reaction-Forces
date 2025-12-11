@@ -56,8 +56,8 @@ Spider plots for the five right foot strike clusters (Figure 1) illustrate the p
 <table align="center">
   <tr>
     <td align="center"><img src="plots/left_cluster_1_spider_plot.png" width="250px"><br><em>Cluster 1</em></td>
-    <td align="center"><img src="plots/leftt_cluster_2_spider_plot.png" width="250px"><br><em>Cluster 2</em></td>
-    <td align="center"><img src="plots/leftt_cluster_3_spider_plot.png" width="250px"><br><em>Cluster 3</em></td>
+    <td align="center"><img src="plots/left_cluster_2_spider_plot.png" width="250px"><br><em>Cluster 2</em></td>
+    <td align="center"><img src="plots/left_cluster_3_spider_plot.png" width="250px"><br><em>Cluster 3</em></td>
   </tr>
   <tr>
     <td align="center"><img src="plots/left_cluster_4_spider_plot.png" width="250px"><br><em>Cluster 4</em></td>
