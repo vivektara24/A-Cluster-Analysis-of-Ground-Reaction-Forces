@@ -45,7 +45,7 @@ To idenifity which of the TSFRESH-derived time-series features contributed most 
 
 For both the left and right GRF features the first 52 principle components, expalining 90% of the total variance, were chosen as input for the HAC algorithm for both right and left foot strikes. The dendogram for the clustering results are outlined in Figure .
 
-#### *Right Foot Stirke Cluster Profiles*
+#### *Foot Strike Cluster Profiles*
 
 Spider plots for the five right-foot strike clusters (Figure 1) visualize how each group differs across a set of externally selected, biomechanically meaningful GRF features associated with running-related injury risk. Each of the five clusters demonstrates a unique biomechanical running profile, indicating that the clusters formed caputer meaningful differences in how athletes load and interact with the ground during stance beyond the traditional RFS, MFS, and FFS categorizations.
 
@@ -62,7 +62,7 @@ Spider plots for the five right-foot strike clusters (Figure 1) visualize how ea
 </table>
 
 
-#### *Left Foot Strike Cluster Profiles*
+The left-foot clusters displayed feature distributions that closely matched those identified in the right-foot analysis, suggesting that the same underlying biomechanical running strategies emerged regardless of limb.
 
 <table align="center">
   <tr>
