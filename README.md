@@ -54,6 +54,8 @@ For both the left and right GRF features the first 52 principle components, expa
   </tr>
 </table>
 
+_**Figure 1**. Hierarchical clustering trees (dendogram) showing division of runners into distinct clusters from extracted left and right GRF featuers._
+
 #### *Foot Strike Cluster Profiles*
 
 Spider plots for the five right-foot strike clusters (Figure 1) visualize how each group differs across a set of externally selected, biomechanically meaningful GRF features associated with running-related injury risk. Each of the five clusters demonstrates a unique biomechanical running profile, indicating that the clusters formed caputer meaningful differences in how athletes load and interact with the ground during stance beyond the traditional RFS, MFS, and FFS categorizations.
