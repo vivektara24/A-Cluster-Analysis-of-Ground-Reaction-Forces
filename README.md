@@ -43,7 +43,15 @@ To idenifity which of the TSFRESH-derived time-series features contributed most 
 
 ## Results
 
-For both the left and right GRF features the first 52 principle components, expalining 90% of the total variance, were chosen as input for the HAC algorithm for both right and left foot strikes. The dendogram for the clustering results are outlined in Figure .
+1979 non-zero variance features were extracted from the V and AP componetns of the GRF data and 1981 non-zero variance features from the left GRF data.
+For both the left and right GRF features the first 52 principle components, expalining 90% of the total variance, were chosen as input for the HAC algorithm for both right and left foot strikes. The dendogram for the clustering results are outlined in Figure 1.
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="plots/right_cluster_4_spider_plot.png" width="600px"><br><em>Cluster 4 Running Profile</em></td>
+    <td align="center"><img src="plots/right_cluster_5_spider_plot.png" width="600px"><br><em>Cluster 5 Running Profile</em></td>
+  </tr>
+</table>
 
 #### *Foot Strike Cluster Profiles*
 
@@ -61,7 +69,7 @@ Spider plots for the five right-foot strike clusters (Figure 1) visualize how ea
   </tr>
 </table>
 
-_**Figure 1**. Spider plots illustrating the biomechanical running profiles for the five right-foot strike clusters._
+_**Figure 2**. Spider plots illustrating the biomechanical running profiles for the five right-foot strike clusters._
 
 The left-foot clusters displayed feature distributions that closely matched those identified in the right-foot analysis, suggesting that the same underlying biomechanical running strategies emerged regardless of limb.
 
@@ -77,7 +85,7 @@ The left-foot clusters displayed feature distributions that closely matched thos
   </tr>
 </table>
 
-_**Figure 2**. Spider plots illustrating the biomechanical running profiles for the five left-foot strike clusters._
+_**Figure 3**. Spider plots illustrating the biomechanical running profiles for the five left-foot strike clusters._
 
 #### *Relationship Between Data-Driven Clsuters and Kinematic Foot Stirek Pattern*
 
