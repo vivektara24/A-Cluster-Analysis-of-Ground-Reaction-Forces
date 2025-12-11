@@ -5,7 +5,8 @@
 1. [Introduction](#introduction)
 2. [Methods](#methods)
 3. [Results](#results)
-4. [References](#references)
+4. [Acknowledgements](#acknowledgements)
+5. [References](#references)
 
 ## Introduction
 
@@ -98,6 +99,10 @@ The confusion matirx shown in Figure compares right
     <td align="center"><img src="plots/right_confusion_matrix.png" width="600px"><br><em>Cluster 2</em></td>
   </tr>
 </table>
+
+## Acknowledgements
+
+I would like to thank Dr. Song Chen, Dr. Thomas Kernozek, Dr. Nathan Vannetta, and Dr. Drew Rutherford for the opportunity to contibribute to this project.
 
 ## References
 
