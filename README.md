@@ -95,8 +95,8 @@ The confusion matirx shown in Figure compares right
 
 <table align="center">
   <tr>
-    <td align="center"><img src="plots/left_confusion_matrix.png" width="600px"><br><em>Cluster 1</em></td>
-    <td align="center"><img src="plots/right_confusion_matrix.png" width="600px"><br><em>Cluster 2</em></td>
+    <td align="center"><img src="plots/left_dend.png" width="600px"><br><em>Right</em></td>
+    <td align="center"><img src="plots/right_dend.png" width="600px"><br><em>Cluster 2</em></td>
   </tr>
 </table>
 
