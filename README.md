@@ -84,7 +84,6 @@ The left-foot clusters displayed feature distributions that closely matched thos
   </tr>
   <tr>
     <td align="center"><img src="plots/left_cluster_4_spider_plot.png" width="600px"><br><em>Cluster 4 Running Profile</em></td>
-    <td align="center"><img src="plots/left_cluster_5_spider_plot.png" width="600px"><br><em>Cluster 5 Running Profile</em></td>
   </tr>
 </table>
 
