@@ -1,16 +1,5 @@
 # A Cluster Analysis of Ground Reaction Forces
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="plots/LAX.png" width="250px" style="display:block; margin:auto;">
-    </td>
-  </tr>
-</table>
-
-
-
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
