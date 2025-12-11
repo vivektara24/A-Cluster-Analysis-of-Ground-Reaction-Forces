@@ -1,6 +1,6 @@
 # A Cluster Analysis of Ground Reaction Forces
 
-#### Introduction
+## Introduction
 
 Foot strike patterns, a fundamental aspect of running, play a role in determining injury risk, performance, and footwear design (Gruber et al., 2013; Hasegawa et al., 2007; Lieberman et al., 2010). Historically, runners have been classified into three foot strike categories: rearfoot strike (RFS), midfoot strike (MFS), and forefoot strike (FFS) from the foundational work of Cavanaugh & La Fortune (1980). More recently, kinematic methods have been used for such classification (Altman & Davis, 2012).  However, recent advances in machine learning (ML) suggest that a comprehensive, data-driven classification system could capture a continuous spectrum of foot strike behaviors, thereby offering deeper insight into biomechanical function during ground contact in stance which may have implications on mechanisms underlying injuries (Ferber et al., 2016; Halilaj et al., 2018; Leporace et al., 2025; Martin et al., 2022).
 
@@ -12,29 +12,29 @@ ML techniques and unsupervised clustering methodologies offer the potential for 
 
 The primary aim of this study was to explore the use of ML techniques to identify latent biomechanical groupings in GRFs that extend beyond tradtional foot strike classifications. Using large-scale feature extraction, dimensionality-reduction, and unsuperived clustering methods, we sought to determine whether distinct data-driven categories of running mechanics emerge from GRFs alone and how these groupings relate to labels derived form conventional kinematic classificiton methods. Ultimately, this investigation seeks to refine the precision and applicability of foot strike analysis using GRF data through sophisticated, data-driven methods that enhance our understanding of running biomechanics and its implications for injury prevention and performance optimization.
 
-#### Methods
+## Methods
 
-*Participants*
+#### *Participants*
 
 This was a sub-analysis of an ongoing prospective trial of NCAA Division III Cross-country athletes. Incoming athletes were invited to participate during their first season from 2016-2023. Exclusion criteria included lower extremity surgery (last 12 months), current injury, or any condition precluding participation in running. Each provided informed consent to participate using a protocol approved by the university institutional review board.
 
-*Procedures*
+#### *Procedures*
 
 Overground running trials were collected on a 19.8 m runway using a force plate mounted flush with the surface. Several warm-up trials were allowed at each runner’s self-reported training pace. Running speed was monitored using photoelectric timing gates with a 2 m span centered on the plate to ensure that each trial was collected within ±5% of the participant’s training pace. Five trials were collected for each limb. Successful trials had the foot entirely on the force plate, no plate “targeting” was observed, and had a speed within the desired range.
 
-*Cluster Analysis*
+#### *Cluster Analysis*
 
 Ground reaction force (GRF) from the left and right foot strikes were processed and analyzed seperatley. A fourier filter was used to decompose the vertical (V) and anterior-posterior (AP) force signals into low- and high-frequency components using a 10 Hz cutoff. Features were extracted using the TSFRESH Python package. Zero variance features were removed, and remaining features were normalized. Principle Component Analysis (PCA) was then applied, retaining PCs that accounted for 90% of total variance. Finally, Hierarchical Agglomerative Clustering (HAC) was performed to partition the dataset into 5 clusters.
 
-*Interpretation and Comparison of Clusters*
+#### *Interpretation and Comparison of Clusters*
 
 
 
-#### Results
+## Results
 
 The first 52 components, expalining 90% of the total variance, were chosen as input for the HAC algorithm for both right and left foot strikes.
 
-*Right Foot Stirke Cluster Profiles*
+#### *Right Foot Stirke Cluster Profiles*
 
 Spider plots for the five right foot strike clusters (Figure 1) illustrate the percitle distibution of represetative GRF-derived features.
 
@@ -51,7 +51,7 @@ Spider plots for the five right foot strike clusters (Figure 1) illustrate the p
 </table>
 
 
-*Left Foot Strike Cluster Profiles*
+#### *Left Foot Strike Cluster Profiles*
 
 <table align="center">
   <tr>
@@ -65,7 +65,7 @@ Spider plots for the five right foot strike clusters (Figure 1) illustrate the p
   </tr>
 </table>
 
-*Relationship Between Data-Driven Clsuters and Kinematic Foot Stirek Pattern*
+#### *Relationship Between Data-Driven Clsuters and Kinematic Foot Stirek Pattern*
 
 The confusion matirx shown if Figure compartes right 
 
