@@ -47,7 +47,7 @@ For both the left and right GRF features the first 52 principle components, expa
 
 #### *Right Foot Stirke Cluster Profiles*
 
-Spider plots for the five right foot strike clusters (Figure 1) illustrate the percitle distibution of represetative GRF-derived features.
+Spider plots for the five right-foot strike clusters (Figure 1) visualize how each group differs across a set of externally selected, biomechanically meaningful GRF features associated with running-related injury risk. Each of the five clusters demonstrates a unique biomechanical running profile, indicating that the clusters formed caputer meaningful differences in how athletes load and interact with the ground during stance beyond the traditional RFS, MFS, and FFS categorizations.
 
 <table align="center">
   <tr>
