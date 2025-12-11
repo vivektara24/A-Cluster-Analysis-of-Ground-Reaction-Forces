@@ -90,8 +90,7 @@ _**Figure 3**. Spider plots illustrating the biomechanical running profiles for 
 
 #### *Relationship Between Data-Driven Clsuters and Kinematic Foot Stirek Pattern*
 
-The confusion matirx shown in Figure compares right 
-
+Confusion matrices comparing cluster assignments with the kinematic labels (RFS, MFS, FFS) for both the left and right foot strikes are provided in Figure 4, highlighting areas of agreement as well as divergence between force-based and kinematic categorizations.
 
 <table align="center">
   <tr>
@@ -99,6 +98,8 @@ The confusion matirx shown in Figure compares right
     <td align="center"><img src="plots/right_confusion_matrix.png" width="600px"><br><em>Right Foot Strike Comparison</em></td>
   </tr>
 </table>
+
+_**Figure 4**. Spider plots illustrating the biomechanical running profiles for the five left-foot strike clusters._
 
 ## Acknowledgements
 
