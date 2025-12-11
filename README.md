@@ -31,15 +31,19 @@ Overground running trials were collected on a 19.8 m runway using a force plate 
 
 #### *Cluster Analysis*
 
-Ground reaction force (GRF) from the left and right foot strikes were processed and analyzed seperatley. A fourier filter was used to decompose the vertical (V) and anterior-posterior (AP) force signals into low- and high-frequency components using a 10 Hz cutoff. Features were extracted using the TSFRESH Python package. Zero variance features were removed, and remaining features were normalized. Principle Component Analysis (PCA) was then applied, retaining PCs that accounted for 90% of total variance. Finally, Hierarchical Agglomerative Clustering (HAC) was performed to partition the dataset into 5 clusters.
+Ground reaction force (GRF) from the left and right foot strikes were processed and analyzed seperatley. A fourier filter was used to decompose the vertical (V) and anterior-posterior (AP) force signals into low- and high-frequency components using a 10 Hz cutoff. Features were extracted using the TSFRESH Python package. Zero variance features were removed, and remaining features were normalized. Principle Component Analysis (PCA) was then applied, retaining PCs that accounted for 90% of total variance. Finally, Hierarchical Agglomerative Clustering (HAC) was performed to partition the dataset into 5 clusters using Ward linkage and the Euclidean distance metric.
 
 #### *Interpretation and Comparison of Clusters*
 
+Running profiles were defined based on clusters formed through HAC, and their charecteristics were compared using spider charts of externally selected biomechanically relevant GRF features, standardized to the percentile of it's mean.
 
+To assess whether these GRF-based groupings aligned with labels formed from kinematic methods, a confusion matrix compared cluster assignments with foot strike labels using from .
+
+To idenifity which of the TSFRESH-derived time-series features contributed most strongly to the formation of clusters beyond the traditional RFS, MFS, and FFS categorization, a Laplacian Score-based ranking was applied to the full feature matrix. This unsupervised criteerion evalues the extent to which each feature preseres local structure in the dataset and therefore highlights variables that meaningfully contribute to cluster formation.
 
 ## Results
 
-The first 52 components, expalining 90% of the total variance, were chosen as input for the HAC algorithm for both right and left foot strikes.
+The first 52 components, expalining 90% of the total variance, were chosen as input for the HAC algorithm for both right and left foot strikes. The dendogram for the clustering results are outlined in Figure .
 
 #### *Right Foot Stirke Cluster Profiles*
 
@@ -74,7 +78,7 @@ Spider plots for the five right foot strike clusters (Figure 1) illustrate the p
 
 #### *Relationship Between Data-Driven Clsuters and Kinematic Foot Stirek Pattern*
 
-The confusion matirx shown if Figure compartes right 
+The confusion matirx shown in Figure compares right 
 
 
 <table align="center">
