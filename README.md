@@ -32,8 +32,17 @@ Ground reaction force (GRF) from the left and right foot strikes were processed 
 
 #### Results
 
-The first 52 components, expalining 90% of the total variance, were chosen as input for the HAC algorithm for both right and left foot strikes. Table 1 describes the demographic and biomechanical charecteristics of each profile.
+The first 52 components, expalining 90% of the total variance, were chosen as input for the HAC algorithm for both right and left foot strikes.
 
+*Right Foot Stirke Cluster Profiles*
+
+Spider plots for the five right foot strike clusters (Figure 1) illustrate the percitle distibution of represetative GRF-derived features.
+
+*Left Foot Strike Cluster Profiles*
+
+*Relationship Between Data-Driven Clsuters and Kinematic Foot Stirek Pattern*
+
+The confusion matirx shown if Figure compartes right 
 
 ## References
 
