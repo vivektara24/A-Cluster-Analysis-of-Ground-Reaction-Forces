@@ -69,6 +69,14 @@ Spider plots for the five right foot strike clusters (Figure 1) illustrate the p
 
 The confusion matirx shown if Figure compartes right 
 
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="plots/left_confusion_matrix.png" width="250px"><br><em>Cluster 1</em></td>
+    <td align="center"><img src="plots/right_confusion_matrix.png" width="250px"><br><em>Cluster 2</em></td>
+  </tr>
+</table>
+
 ## References
 
 1. <a id="ref1"></a> Almeida, M. O., Davis, I. S., & Lopes, A. D. (2015). Biomechanical Differences of Foot-Strike Patterns during Running: A Systematic Review with meta-analysis. Journal of Orthopaedic and Sports Physical Therapy, 45(10), 738–755. https://doi.org/10.2519/jospt.2015.6019.
