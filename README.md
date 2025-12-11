@@ -49,6 +49,7 @@ For both the left and right GRF features the first 52 principle components, expa
 
 Spider plots for the five right-foot strike clusters (Figure 1) visualize how each group differs across a set of externally selected, biomechanically meaningful GRF features associated with running-related injury risk. Each of the five clusters demonstrates a unique biomechanical running profile, indicating that the clusters formed caputer meaningful differences in how athletes load and interact with the ground during stance beyond the traditional RFS, MFS, and FFS categorizations.
 
+<p align="center"><strong>Figure 1.</strong> Spider plots illustrating the biomechanical running profiles for the five right-foot strike clusters.</p>
 <table align="center">
   <tr>
     <td align="center"><img src="plots/right_cluster_1_spider_plot.png" width="600px"><br><em>Cluster 1 Running Profile</em></td>
