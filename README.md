@@ -49,8 +49,8 @@ For both the left and right GRF features the first 52 principle components, expa
 
 <table align="center">
   <tr>
-    <td align="center"><img src="plots/left_dend.png" width="1000px"><br><em>Cluster 4 Running Profile</em></td>
-    <td align="center"><img src="plots/right_dend.png" width="1000px"><br><em>Cluster 5 Running Profile</em></td>
+    <td align="center"><img src="plots/left_dend.png" width="1000px"><br><em>Left GRF Division</em></td>
+    <td align="center"><img src="plots/right_dend.png" width="1000px"><br><em>Right GRF Division</em></td>
   </tr>
 </table>
 
