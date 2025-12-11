@@ -32,7 +32,7 @@ Overground running trials were collected on a 19.8 m runway using a force plate 
 
 #### *Cluster Analysis*
 
-Ground reaction force (GRF) from the left and right foot strikes were processed and analyzed seperatley. A fourier filter was used to decompose the vertical (V) and anterior-posterior (AP) force signals into low- and high-frequency components using a 10 Hz cutoff. Features were extracted using the TSFRESH Python package. Zero variance features were removed, and remaining features were normalized. Principle Component Analysis (PCA) was then applied, retaining PCs that accounted for 90% of total variance. Finally, Hierarchical Agglomerative Clustering (HAC) was performed to partition the dataset into 5 clusters using Ward linkage and the Euclidean distance metric.
+Ground reaction force (GRF) from the left and right foot strikes were processed and analyzed seperatley. A fourier filter was used to decompose the vertical (V) and anterior-posterior (AP) force signals into low- and high-frequency components using a 10 Hz cutoff. Features were extracted using the TSFRESH Python package. Zero variance features were removed, and remaining features were normalized. Principle Component Analysis (PCA) was then applied, retaining PCs that accounted for 90% of total variance. Finally, Hierarchical Agglomerative Clustering (HAC) was performed to partition the dataset into distinct groupings using Ward linkage and the Euclidean distance metric. The number of clusters to form was determined through visual inspection of the resulting dendograms.
 
 #### *Interpretation and Comparison of Clusters*
 
@@ -44,8 +44,7 @@ To idenifity which of the TSFRESH-derived time-series features contributed most 
 
 ## Results
 
-1979 non-zero variance features were extracted from the V and AP componetns of the GRF data and 1981 non-zero variance features from the left GRF data.
-For both the left and right GRF features the first 52 principle components, expalining 90% of the total variance, were chosen as input for the HAC algorithm for both right and left foot strikes. The dendogram for the clustering results are outlined in Figure 1.
+A total of 1,979 non-zero-variance features were extracted from the right-foot GRF signals and 1,981 from the left-foot signals. For both sides, the first 52 principal components—capturing 90% of the total variance—were retained as inputs to the HAC algorithm. The resulting dendrograms, shown in Figure 1, indicate five distinct profiles for the right-foot GRF data and four for the left-foot data.
 
 <table align="center">
   <tr>
@@ -58,7 +57,7 @@ _**Figure 1**. Hierarchical clustering trees (dendogram) showing division of run
 
 #### *Foot Strike Cluster Profiles*
 
-Spider plots for the five right-foot strike clusters (Figure 1) visualize how each group differs across a set of externally selected, biomechanically meaningful GRF features associated with running-related injury risk. Each of the five clusters demonstrates a unique biomechanical running profile, indicating that the clusters formed caputer meaningful differences in how athletes load and interact with the ground during stance beyond the traditional RFS, MFS, and FFS categorizations.
+Spider plots for the five right-foot strike clusters (Figure 2) visualize how each group differs across a set of externally selected, biomechanically meaningful GRF features associated with running-related injury risk. Each of the five clusters demonstrates a unique biomechanical running profile, indicating that the clusters formed caputer meaningful differences in how athletes load and interact with the ground during stance beyond the traditional RFS, MFS, and FFS categorizations.
 
 <table align="center">
   <tr>
@@ -74,7 +73,7 @@ Spider plots for the five right-foot strike clusters (Figure 1) visualize how ea
 
 _**Figure 2**. Spider plots illustrating the biomechanical running profiles for the five right-foot strike clusters._
 
-The left-foot clusters displayed feature distributions that closely matched those identified in the right-foot analysis, suggesting that the same underlying biomechanical running strategies emerged regardless of limb.
+Spider plots for the four left-foot strike clusters (Figure 3) visualize how each group differs across a set of externally selected, biomechanically meaningful GRF features associated with running-related injury risk. Each of the four clusters demonstrates a unique biomechanical running profile, indicating that the clusters formed caputer meaningful differences in how athletes load and interact with the ground during stance beyond the traditional RFS, MFS, and FFS categorizations.
 
 <table align="center">
   <tr>
