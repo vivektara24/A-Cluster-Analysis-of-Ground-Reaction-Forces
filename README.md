@@ -32,7 +32,7 @@ Ground reaction force (GRF) from the left and right foot strikes were processed 
 
 #### Results
 
-The first 52 components, expalining 90% of the total variance, were chosen as input for the HAC algorithm. Table 1 describes the demographic and biomechanical charecteristics of each profile.
+The first 52 components, expalining 90% of the total variance, were chosen as input for the HAC algorithm for both right and left foot strikes. Table 1 describes the demographic and biomechanical charecteristics of each profile.
 
 
 ## References
