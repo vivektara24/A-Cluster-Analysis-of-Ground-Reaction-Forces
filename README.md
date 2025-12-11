@@ -38,6 +38,19 @@ The first 52 components, expalining 90% of the total variance, were chosen as in
 
 Spider plots for the five right foot strike clusters (Figure 1) illustrate the percitle distibution of represetative GRF-derived features.
 
+<table align="center">
+  <tr>
+    <td align="center"><img src="plots/right_cluster_1_spider_plot.png" width="250px"><br><em>Cluster 1</em></td>
+    <td align="center"><img src="plots/right_cluster_2_spider_plot.png" width="250px"><br><em>Cluster 2</em></td>
+    <td align="center"><img src="plots/right_cluster_3_spider_plot.png" width="250px"><br><em>Cluster 3</em></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="plots/right_cluster_4_spider_plot.png" width="250px"><br><em>Cluster 4</em></td>
+    <td align="center"><img src="plots/right_cluster_5_spider_plot.png" width="250px"><br><em>Cluster 5</em></td>
+  </tr>
+</table>
+
+
 *Left Foot Strike Cluster Profiles*
 
 *Relationship Between Data-Driven Clsuters and Kinematic Foot Stirek Pattern*
