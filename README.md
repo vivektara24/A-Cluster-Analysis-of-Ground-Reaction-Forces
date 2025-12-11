@@ -1,4 +1,4 @@
-# Machine Learning for Foot Strike Pattern Analysis
+# A Cluster Analysis of Ground Reaction Forces
 
 #### Introduction
 
