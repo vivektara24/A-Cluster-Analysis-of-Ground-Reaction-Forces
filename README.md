@@ -1,4 +1,4 @@
-# Machine Learning for Foot Strike Pattern
+# Machine Learning for Foot Strike Pattern Analysis
 
 #### Introduction
 
