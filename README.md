@@ -103,7 +103,7 @@ _**Figure 4**. Spider plots illustrating the biomechanical running profiles for 
 
 ## Acknowledgements
 
-I would like to thank Dr. Song Chen, Dr. Thomas Kernozek, Dr. Nathan Vannetta, and Dr. Drew Rutherford for the opportunity to contibribute to this project.
+I would like to thank **Dr. Song Chen**, **Dr. Thomas Kernozek**, **Dr. Nathan Vannetta**, and **Dr. Drew Rutherford** for the opportunity to contibribute to this project.
 
 ## References
 
