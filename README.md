@@ -38,7 +38,7 @@ Ground reaction force (GRF) from the left and right foot strikes were processed 
 
 Running profiles were defined based on clusters formed through HAC, and their charecteristics were compared using spider charts of externally selected biomechanically relevant GRF features, standardized to the percentile of it's mean.
 
-To assess whether these GRF-based groupings aligned with labels formed from kinematic methods, a confusion matrix compared cluster assignments with foot strike labels using from .
+To assess whether these GRF-based groupings aligned with labels formed from kinematic methods, a confusion matrix compared cluster assignments with expert-defined foot strike labels from kinematic methods of classification.
 
 To idenifity which of the TSFRESH-derived time-series features contributed most strongly to the formation of clusters beyond the traditional RFS, MFS, and FFS categorization, a Laplacian Score-based ranking was applied to the full feature matrix. This unsupervised criteerion evalues the extent to which each feature preseres local structure in the dataset and therefore highlights variables that meaningfully contribute to cluster formation.
 
