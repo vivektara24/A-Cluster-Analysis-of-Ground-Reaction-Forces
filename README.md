@@ -42,7 +42,7 @@ To assess whether these GRF-based groupings aligned with labels formed from kine
 
 ## Results
 
-A total of 1,979 non-zero-variance features were extracted from the right-foot GRF signals and 1,981 from the left-foot signals. For both sides, the first 52 principal components—capturing 90% of the total variance—were retained as inputs to the HAC algorithm. The resulting dendrograms, shown in Figure 1, indicate five distinct profiles for the right-foot GRF data and four for the left-foot data.
+A total of 1,979 non-zero-variance features were extracted from the right-foot GRF signals and 1,981 from the left-foot signals. For both sides, the first 52 principal components—capturing 90% of the total variance—were retained as inputs to the HAC algorithm. The resulting dendrograms, shown in Figure 1, indicate five distinct profiles for the right-foot GRF data and four for the left-foot GRF data.
 
 <table align="center">
   <tr>
