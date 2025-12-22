@@ -32,7 +32,7 @@ Overground running trials were collected on a 19.8 m runway using a force plate 
 
 #### *Cluster Analysis*
 
-Ground reaction force (GRF) from the left and right foot strikes were processed and analyzed seperatley. A fourier filter was used to decompose the vertical (V) and anterior-posterior (AP) force signals into low- and high-frequency components using a 10 Hz cutoff. Features were extracted using the TSFRESH Python package. Zero variance features were removed, and remaining features were normalized. Principle Component Analysis (PCA) was then applied, retaining PCs that accounted for 90% of total variance. Finally, Hierarchical Agglomerative Clustering (HAC) was performed to partition the dataset into distinct groupings using Ward linkage and the Euclidean distance metric. The number of clusters to form was determined through visual inspection of the resulting dendograms.
+Ground reaction force (GRF) from the left and right foot strikes were processed and analyzed seperatley. A Fourier filter was used to decompose the vertical (V) and anterior-posterior (AP) force signals into low- and high-frequency components using a 10 Hz cutoff. Features were extracted using the TSFRESH Python package. Zero variance features were removed, and remaining features were normalized. Principle Component Analysis (PCA) was then applied, retaining PCs that accounted for 90% of total variance. Finally, Hierarchical Agglomerative Clustering (HAC) was performed to partition the dataset into distinct groupings using Ward linkage and the Euclidean distance metric. The number of clusters to form was determined through visual inspection of the resulting dendrograms.
 
 #### *Interpretation and Comparison of Clusters*
 
