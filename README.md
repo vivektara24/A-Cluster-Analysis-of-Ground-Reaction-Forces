@@ -1,4 +1,4 @@
-# Separation-of-terbium-from-proton-irradiated-gadolinium-oxide-targets
+# Exploring running classifications using foot inclination angle and ground reaction force clustering methods: Do traditional foot strike categories capture meaningful patterns in ground reactions forces?
 
 <p align="center">
   <img src="images/medphys.png" alt="HIPPO Logo" height="120"/>
